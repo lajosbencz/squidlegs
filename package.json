@@ -1,0 +1,10 @@
+{
+  "name": "squidlegs",
+  "version": "0.1.15",
+  "description": "ES6 Game Framework",
+  "author": "alexking <alexking@github>",
+  "dependencies": {
+    "gulp-babel": "~5.1.0",
+    "gulp-concat": "~2.6.0"
+  }
+}
